@@ -1,4 +1,4 @@
-# React To-Do List with Context API and useReducer
+# Context API and useReducer
 
 ## Overview
 
