@@ -62,7 +62,7 @@ export const Item = ({ id, text, done, description, timeStamp }: Todo) => {
             className="flex flex-col w-full mb-4 cursor-pointer"
             title={
                 <div className="flex justify-between">
-                    <div>
+                    <div className="overflow-hidden">
                         <Title />
                         <p className="font-semibold text-xs text-gray">{description ?? '-'}</p>
                     </div>
