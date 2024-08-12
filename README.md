@@ -2,8 +2,8 @@
 This project utilizes React’s `Context API` combined with the `useReducer` hook to manage the state of a to-do list application. Here’s a simplified overview of the implementation
 
 <p>
-<img src="https://github.com/user-attachments/assets/07ccbef3-8982-46e6-bbe6-385365d883d2" width="500"/>
-<img src="https://github.com/user-attachments/assets/e3fcc33d-efd7-4b34-88b7-c51754cf4c0e" width="500"/>
+<img src="https://github.com/user-attachments/assets/07ccbef3-8982-46e6-bbe6-385365d883d2" width="400"/>
+<img src="https://github.com/user-attachments/assets/e3fcc33d-efd7-4b34-88b7-c51754cf4c0e" width="400"/>
 </p>
 
 
