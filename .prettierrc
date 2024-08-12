@@ -1,0 +1,24 @@
+{
+  "printWidth": 120,
+  "tabWidth": 4,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "semi": true,
+  "importOrder": [
+    "react",
+    "<THIRD_PARTY_MODULES>",
+    "^@services/(.*)$",
+    "^@type/(.*.*)$",
+    "^@hooks/(.*)$",
+    "^@layouts/(.*)$",
+    "^@pages/(.*)$",
+    "^@components/(.*)$",
+    "^@utils",
+    "^@config/(.*)$",
+    "^@styles/(.*)$",
+    "^@src/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
